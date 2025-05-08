@@ -1,38 +1,9 @@
 # jwan3173_9103_tut03
-This is my first repository
+## Quiz 9
+### Part 1: Imaging Technique Inspiration
 
-this is my first local change to the repo!
+I was inspired by the Matrix sequence that zooms in, distorts and transforms on-screen figures into green ripple tunnels, and the sequence that shows the trajectory of a bullet through bullet time and slow motion. Both of these images show very surreal and sci-fi worlds in 1999 through visual effects such as object-to-object warping, slow-motion, waveform distortion and ghosting. I plan to use similar waveform lines and warping operations on graphics in my assignments. This technique will be used to alter the image to echo the theme set by our group.
 
-# Header 1
-## Header 2
-### Header 3
-#### Header 4
-##### Header 5
-###### Header 6
-
-**Bold Text** or __Bold Text__
-
-**Italic Text* or _Italic Text_
-
-- Item 1
-_ Intem 2
-    - Subitem 2.1
-    - Subitem 2.2
-
-1. First-Second Item
-1. Second Item
-1. Third Item
-
-    [Link Txt] (https://www.google.com/)
-
-    ![An image of a cat](https://placekitten.com/200/300)
-
-    ![An image of Mona Lisa](readmeImages/Mona_Lisa_by_Lenardo_da_Vinci_500_x_700.jpg)
-
-    ```
-    function helloWorld(){
-        console.log("Hello world.");
-    }
-    ```
-
-    I can write a sentencen referencing `helloWorld()` like this.
+![Matrix Tunnel](Matrix%20Tunnel.png)
+![Bullet Time](Bullet%20Time.png)
+---
